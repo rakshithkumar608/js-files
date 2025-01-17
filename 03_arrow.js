@@ -9,3 +9,5 @@ const user = {
 }
 
 user.welcomeMessage()
+user.username = "hithesh"
+user.welcomeMessage()
