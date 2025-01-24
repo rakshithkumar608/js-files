@@ -87,13 +87,13 @@ const myCoading = [
         languageName: "javascript",
         languageFileName: "js"
         
-    }
+    },
 
     {
         languageName: "java",
         languageFileName: "java"
         
-    }
+    },
 
     {
         languageName: "python",
