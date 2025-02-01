@@ -68,8 +68,10 @@ format.addEventListener('submit', function(e){
     });
 
 
-````
+```
 ### project 3 solution
+
+```javascript 
 const insert = document.getElementById('insert');
 
 window.addEventListener('keydown', (e) => {
